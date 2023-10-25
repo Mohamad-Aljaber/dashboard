@@ -1,0 +1,16 @@
+.add-car {
+  width: 50%;
+  background-color: black;
+  height: 70vh;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-77%, 20%);
+  border-radius: 27px;
+  padding: 25px;
+  margin: auto;
+}
+.add-car form {
+  display: grid;
+  gap: 35px;
+}
